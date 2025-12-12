@@ -1,0 +1,7 @@
+url,label
+http://example.com,0
+https://google.com,0
+https://github.com,0
+http://login-secure-paypal.com/verify,1
+http://secure-bank-update-login.com,1
+http://accounts-google.verify-login.com,1
